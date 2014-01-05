@@ -1,7 +1,7 @@
 ## Fixed Github Header
 
 ### How to use
-Drop down ```fixed-github-header.crx``` on your [chrome://extentions](chrome://extensions/)
+Do drag-and-drop ```fixed-github-header.crx``` on your [chrome://extentions](chrome://extensions/)
 
 ### notice
 No update URL.
