@@ -1,4 +1,7 @@
-# Fixed Github Header
+## Fixed Github Header
 
-## How to use
+### How to use
 Drop down ```fixed-github-header.crx``` on your [chrome://extentions](chrome://extensions/)
+
+### notice
+No update URL.
