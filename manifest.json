@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Fixed Github Header",
-  "version": "1.0",
+  "version": "1.1",
   "content_scripts": [{
     "matches": ["https://github.com/*"],
     "js": ["fixed-github-header.js"]
